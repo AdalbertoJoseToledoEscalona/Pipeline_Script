@@ -1,1 +1,1 @@
-echo "Running Unit Test Cases : $(date '+%Y-%m-%d %H:%M:%S')"
+echo "Running Unit Test Cases : %date% : %time%"

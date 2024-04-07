@@ -1,1 +1,1 @@
-echo "Building the Project : $(date '+%Y-%m-%d %H:%M:%S')"
+echo "Building the Project : %date% : %time%"
