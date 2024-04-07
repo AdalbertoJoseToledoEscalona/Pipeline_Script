@@ -1,2 +1,2 @@
 
-echo "Deploying Build : %date% : %time%"
+echo "Deploying Build : $(date '+%Y-%m-%d %H:%M:%S')"
